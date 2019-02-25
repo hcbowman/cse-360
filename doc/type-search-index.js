@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.asu.spring19.cse360.assignments.assignment1","l":"OrderedIntList"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.asu.spring19.cse360.assignments.assignment2","l":"Calculator"}]
