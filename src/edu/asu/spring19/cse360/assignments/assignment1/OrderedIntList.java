@@ -1,4 +1,4 @@
-/*
+/**
  *  @author Hunter Bowman
  *  ClassID 332
  *  assignment 1
