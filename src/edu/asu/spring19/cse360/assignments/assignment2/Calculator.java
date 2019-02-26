@@ -5,6 +5,7 @@ package edu.asu.spring19.cse360.assignments.assignment2;
  *  @author Hunter Bowman
  *  ClassID 332
  *  assignment 2
+ *  https://github.com/hunterbowman/CSE360/tree/master/bin/edu/asu/spring19/cse360/assignments/assignment2
  *  </p>
  *  
  *  <p>
