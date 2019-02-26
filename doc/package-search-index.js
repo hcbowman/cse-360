@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"CSE360","l":"edu.asu.spring19.cse360.assignments.assignment1"},{"m":"CSE360","l":"edu.asu.spring19.cse360.assignments.assignment2"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.asu.spring19.cse360.assignments.assignment1"},{"l":"edu.asu.spring19.cse360.assignments.assignment2"}]
